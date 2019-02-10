@@ -1,4 +1,4 @@
-package hello;
+package app.entity;
 
 public class Greeting {
 
